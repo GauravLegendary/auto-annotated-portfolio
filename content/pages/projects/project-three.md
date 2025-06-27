@@ -18,7 +18,7 @@ featuredImage:
   caption: Master the jumps. Beat the time. Dominate the leaderboard with ParkourX!
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Leonardo_Phoenix_09_Minecraft_parkour_course_at_sunset_glowing_1.jpg
   altText: Project image
 ---
 **ParkourX** is a feature-rich parkour plugin designed to bring smooth, competitive gameplay to Minecraft servers. Whether you’re running a minigame network, survival hub, or an RPG map, ParkourX allows you to build courses with checkpoints, timed runs, and rewards for completions — all with stunning visual feedback and lag-free performance.
