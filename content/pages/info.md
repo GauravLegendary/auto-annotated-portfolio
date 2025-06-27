@@ -190,7 +190,7 @@ sections:
       - type: Label
         label: Minecraft Server Setup
       - type: Label
-        label: Netlify
+        label: Git & GitHub
       - type: Label
         label: Pancakes
       - type: Label
