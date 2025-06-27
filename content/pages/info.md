@@ -196,7 +196,7 @@ sections:
       - type: Label
         label: Coffee Making ☕
       - type: Label
-        label: Swift
+        label: PaperMC Optimization
   - type: DividerSection
     styles:
       self:
