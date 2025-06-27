@@ -7,7 +7,7 @@ client: Mark Brad.
 description: "Campfire Teleport is a custom Minecraft plugin designed to intelligently teleport players based on their respawn status. If a player has a bed (respawn point) set, the plugin safely teleports them to a random location near their bed, ensuring they stay close to their base. If no bed is found, it defaults to a random teleport (RTP) behavior, offering a survival-friendly way to explore the world.\U0001F527 Key Features:✅ Detects player’s respawn point and teleports nearby\U0001F30D RTP fallback for players without a bed\U0001F6CF️ Supports survival gameplay and server immersion⚙️ Lightweight and performance-optimizedThis was my first custom plugin, and it taught me how to work with player data, location handling, and condition-based teleportation. It’s also where I began exploring how to design player-friendly features that improve the survival experience."
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Leonardo_Phoenix_09_A_glowing_Minecraftstyle_campfire_in_a_for_1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
