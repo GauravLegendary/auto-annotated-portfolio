@@ -22,6 +22,7 @@ media:
   altText: >-
     A Minecraft player mid-jump on a floating parkour course with glowing
     checkpoints and a digital timer in the background.
+  caption: Master the jumps. Beat the time. Dominate the leaderboard with ParkourX!
 ---
 **ParkourX** is a feature-rich parkour plugin designed to bring smooth, competitive gameplay to Minecraft servers. Whether you’re running a minigame network, survival hub, or an RPG map, ParkourX allows you to build courses with checkpoints, timed runs, and rewards for completions — all with stunning visual feedback and lag-free performance.
 
