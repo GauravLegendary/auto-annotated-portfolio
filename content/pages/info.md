@@ -194,7 +194,7 @@ sections:
       - type: Label
         label: Custom Commands
       - type: Label
-        label: C++
+        label: Coffee Making ☕
       - type: Label
         label: Swift
   - type: DividerSection
