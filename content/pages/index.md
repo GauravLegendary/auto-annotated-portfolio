@@ -64,7 +64,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Frequently Questions Asked
     showFeaturedImage: false
     actions:
       - type: Link
