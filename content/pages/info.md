@@ -22,6 +22,9 @@ sections:
         A vibrant Minecraft-themed workspace showing a glowing code editor,
         floating plugin elements like command blocks, beds, potions, and gear
         icons, with a tech-inspired background.
+      caption: >-
+        A glimpse into my world as a Minecraft plugin developer — where
+        creativity meets clean, custom code.
     styles:
       self:
         height: auto
