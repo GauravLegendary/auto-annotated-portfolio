@@ -118,7 +118,7 @@ sections:
         actions:
           - type: Link
             label: 'Discord: urfavgaurav'
-            url: 'https://discord.com/'
+            url: ''
         styles:
           self:
             textAlign: left
