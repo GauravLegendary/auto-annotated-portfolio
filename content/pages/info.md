@@ -188,7 +188,7 @@ sections:
       - type: Label
         label: Spigot/Bukkit API
       - type: Label
-        label: Next.js
+        label: Minecraft Server Setup
       - type: Label
         label: Netlify
       - type: Label
