@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Infuse
 colors: colors-a
-date: '0002-06-24'
+date: '2025-06-24'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
