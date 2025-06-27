@@ -186,7 +186,7 @@ sections:
       - type: Label
         label: Plugin Configuration
       - type: Label
-        label: Microsoft Office
+        label: Spigot/Bukkit API
       - type: Label
         label: Next.js
       - type: Label
