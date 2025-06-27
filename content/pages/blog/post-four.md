@@ -8,7 +8,9 @@ excerpt: Discover how my custom plugins stand out in a sea of cookie-cutter solu
 featuredImage:
   type: ImageBlock
   url: /images/Leonardo_Phoenix_09_A_vibrant_customcoded_Minecraft_plugin_int_2.jpg
-  altText: Post thumbnail image
+  altText: >-
+    Comparison of a custom high-quality Minecraft plugin UI vs. a generic one,
+    showing the difference in detail and polish.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
