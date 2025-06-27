@@ -188,7 +188,7 @@ sections:
       - type: Label
         label: Spigot/Bukkit API
       - type: Label
-        label: Minecraft Server Setup
+        label: Server Setup & Management
       - type: Label
         label: Git & GitHub
       - type: Label
