@@ -2,7 +2,7 @@
 type: PostLayout
 title: "\U0001F4BC Why Hire Me?"
 colors: colors-a
-date: '2024-06-02'
+date: '0292-06-27'
 author: content/data/team/doris-soto.json
 excerpt: "\U0001F527 4+ Years of Real Coding ExperienceI’ve spent years mastering Java and the Minecraft plugin ecosystem. I don’t rely on drag-and-drop tools — I write clean, optimized, and scalable code built specifically for your server’s needs."
 featuredImage:
