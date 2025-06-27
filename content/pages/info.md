@@ -18,7 +18,10 @@ sections:
       type: ImageBlock
       url: >-
         /images/Leonardo_Phoenix_09_A_creative_digital_workspace_with_a_glowin_2.jpg
-      altText: Hero image
+      altText: >-
+        A vibrant Minecraft-themed workspace showing a glowing code editor,
+        floating plugin elements like command blocks, beds, potions, and gear
+        icons, with a tech-inspired background.
     styles:
       self:
         height: auto
