@@ -184,7 +184,7 @@ sections:
       - type: Label
         label: Java (4+ years)
       - type: Label
-        label: React
+        label: Plugin Configuration
       - type: Label
         label: Microsoft Office
       - type: Label
