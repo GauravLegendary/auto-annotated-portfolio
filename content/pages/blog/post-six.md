@@ -4,7 +4,7 @@ title: "\U0001F4BC Why Hire Me?"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: "\U0001F527 4+ Years of Real Coding ExperienceI’ve spent years mastering Java and the Minecraft plugin ecosystem. I don’t rely on drag-and-drop tools — I write clean, optimized, and scalable code built specifically for your server’s needs."
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
