@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Campfire Teleport
 colors: colors-a
 date: '2025-05-14'
-client: Awesome client
+client: Mark Brad.
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
