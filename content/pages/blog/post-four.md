@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Discover how my custom plugins stand out in a sea of cookie-cutter solutions.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/Leonardo_Phoenix_09_A_vibrant_customcoded_Minecraft_plugin_int_2.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
