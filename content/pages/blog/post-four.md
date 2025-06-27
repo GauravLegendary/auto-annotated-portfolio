@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ' What makes your plugins different from others on the market?'
+title: ❓What makes your plugins different from others on the market?
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
