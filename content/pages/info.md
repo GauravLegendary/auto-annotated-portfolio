@@ -16,7 +16,8 @@ sections:
     text: "# \U0001F44B Hi, I'm **Gaurav Saini** — a passionate Java developer and Minecraft plugin specialist with 4+ years of experience turning ideas into powerful, custom-built solutions.\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: >-
+        /images/Leonardo_Phoenix_09_A_creative_digital_workspace_with_a_glowin_2.jpg
       altText: Hero image
     styles:
       self:
