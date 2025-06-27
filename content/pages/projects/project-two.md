@@ -15,7 +15,7 @@ description: >-
   tactical gameplay to every session.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Leonardo_Phoenix_09_A_Minecraftstyle_armored_warrior_glowing_w_0.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
