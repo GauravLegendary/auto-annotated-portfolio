@@ -19,7 +19,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Leonardo_Phoenix_09_A_glowing_Minecraftstyle_campfire_in_a_for_1.jpg
+  url: /images/Leonardo_Phoenix_09_A_Minecraftstyle_armored_warrior_glowing_w_0.jpg
   altText: Project image
 ---
 
