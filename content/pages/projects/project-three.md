@@ -11,7 +11,7 @@ description: >-
   ordinary parkour courses into competitive, engaging experiences.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Leonardo_Phoenix_09_Minecraft_parkour_course_at_sunset_glowing_1.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
