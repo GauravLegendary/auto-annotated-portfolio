@@ -4,7 +4,7 @@ title: Do you provide updates or support after delivery?
 colors: colors-b
 date: '2025-06-25'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Get peace of mind knowing I’m here even after the plugin is delivered.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
