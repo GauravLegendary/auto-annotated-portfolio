@@ -11,6 +11,9 @@ featuredImage:
   altText: >-
     A developer character working on bug fixes and sending plugin updates in a
     bright, friendly digital workspace.
+  caption: >-
+    My job doesn’t end at delivery — I provide reliable support and updates to
+    help your server thrive.
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
