@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Get peace of mind knowing I’m here even after the plugin is delivered.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/Leonardo_Phoenix_09_A_friendly_Minecraftstyle_developer_charac_2.jpg
   altText: >-
     A developer character working on bug fixes and sending plugin updates in a
     bright, friendly digital workspace.
