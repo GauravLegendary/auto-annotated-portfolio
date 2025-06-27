@@ -12,6 +12,9 @@ featuredImage:
     A digital artwork showing a developer working on Minecraft plugin code in a
     modern workspace, with pixel-style effects and a glowing “Why Hire Me?”
     title in rainbow gradient.
+  caption: >-
+    Showcasing my dedication and creative workflow as a Minecraft plugin
+    developer — here's why I'm the right choice for your project.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
