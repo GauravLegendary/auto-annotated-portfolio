@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: "\U0001F527 4+ Years of Real Coding ExperienceI’ve spent years mastering Java and the Minecraft plugin ecosystem. I don’t rely on drag-and-drop tools — I write clean, optimized, and scalable code built specifically for your server’s needs."
 featuredImage:
   type: ImageBlock
-  url: /images/Leonardo_Phoenix_09_Minecraft_parkour_course_at_sunset_glowing_1.jpg
+  url: /images/Leonardo_Phoenix_09_A_modern_hightech_workspace_with_a_glowing_3.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
