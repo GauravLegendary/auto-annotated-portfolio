@@ -15,6 +15,7 @@ featuredImage:
   altText: >-
     A Minecraft player mid-jump on a floating parkour course with glowing
     checkpoints and a digital timer in the background.
+  caption: Master the jumps. Beat the time. Dominate the leaderboard with ParkourX!
 media:
   type: ImageBlock
   url: /images/bg3.jpg
