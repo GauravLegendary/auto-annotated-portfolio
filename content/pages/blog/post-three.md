@@ -8,7 +8,9 @@ excerpt: Get peace of mind knowing I’m here even after the plugin is delivered
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
-  altText: Post thumbnail image
+  altText: >-
+    A developer character working on bug fixes and sending plugin updates in a
+    bright, friendly digital workspace.
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
