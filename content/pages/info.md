@@ -192,7 +192,7 @@ sections:
       - type: Label
         label: Git & GitHub
       - type: Label
-        label: Pancakes
+        label: Custom Commands
       - type: Label
         label: C++
       - type: Label
