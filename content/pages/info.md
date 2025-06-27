@@ -13,16 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "# \U0001F44B Hi, I'm **Gaurav Saini** — a passionate Java developer and Minecraft plugin specialist with 4+ years of experience turning ideas into powerful, custom-built solutions.\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: >-
+        /images/Leonardo_Phoenix_09_A_creative_digital_workspace_with_a_glowin_2.jpg
+      altText: >-
+        A vibrant Minecraft-themed workspace showing a glowing code editor,
+        floating plugin elements like command blocks, beds, potions, and gear
+        icons, with a tech-inspired background.
+      caption: >-
+        A glimpse into my world as a Minecraft plugin developer — where
+        creativity meets clean, custom code.
     styles:
       self:
         height: auto
@@ -55,23 +57,23 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Screenshot 2025-06-27 084654.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/Screenshot 2025-06-27 084613.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Screenshot 2025-06-27 084522.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/Screenshot 2025-06-27 084810.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Screenshot 2025-06-27 084907.png
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -108,39 +110,15 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/GauravLegendary'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            label: 'Discord: urfavgaurav'
+            url: ''
         styles:
           self:
             textAlign: left
@@ -148,7 +126,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/gvdev_'
         styles:
           self:
             textAlign: left
@@ -180,21 +158,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Java (4+ years)
       - type: Label
-        label: React
+        label: Plugin Configuration
       - type: Label
-        label: Microsoft Office
+        label: Spigot/Bukkit API
       - type: Label
-        label: Next.js
+        label: Server Setup & Management
       - type: Label
-        label: Netlify
+        label: Git & GitHub
       - type: Label
-        label: Pancakes
+        label: Custom Commands
       - type: Label
-        label: C++
+        label: Coffee Making ☕
       - type: Label
-        label: Swift
+        label: PaperMC Optimization
   - type: DividerSection
     styles:
       self:
@@ -210,8 +188,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: >
+      <a
+      href="mailto:gauravsaini61246\@gmail.com">gauravsaini61246@gmail.com</a>
   - type: DividerSection
     styles:
       self:
@@ -225,49 +204,7 @@ sections:
         borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
+    items: []
     columns: 2
     spacingX: 60
     spacingY: 60
