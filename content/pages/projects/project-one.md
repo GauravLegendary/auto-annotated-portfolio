@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Campfire Teleport
+title: "\U0001F525 Campfire Teleport"
 colors: colors-a
 date: '2025-05-14'
 client: Mark Brad.
