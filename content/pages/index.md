@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "\U0001F44B Hi, I'm Gaurav Saini — a passionate Java developer and Minecraft plugin specialist with 4+ years of experience turning ideas into powerful, custom-built solutions."
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "\U0001F680 I build plugins that power next-gen Minecraft experiences — from mini-games to full network systems. Let's turn your vision into code that performs."
     styles:
       self:
         height: auto
