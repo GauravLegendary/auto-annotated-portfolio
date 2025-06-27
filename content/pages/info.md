@@ -13,12 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-
+    text: "# \U0001F44B Hi, I'm **Gaurav Saini** — a passionate Java developer and Minecraft plugin specialist with 4+ years of experience turning ideas into powerful, custom-built solutions.\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
