@@ -57,7 +57,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Screenshot 2025-06-27 084654.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
