@@ -8,7 +8,10 @@ excerpt: "\U0001F527 4+ Years of Real Coding ExperienceI’ve spent years master
 featuredImage:
   type: ImageBlock
   url: /images/Leonardo_Phoenix_09_A_modern_hightech_workspace_with_a_glowing_3.jpg
-  altText: Post thumbnail image
+  altText: >-
+    A digital artwork showing a developer working on Minecraft plugin code in a
+    modern workspace, with pixel-style effects and a glowing “Why Hire Me?”
+    title in rainbow gradient.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
