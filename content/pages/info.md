@@ -212,8 +212,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      gauravsaini61246\@gmail.com
+    text: |+
+      <a href="mailto:gauravsaini61246\@gmail.com"></a>
+
   - type: DividerSection
     styles:
       self:
