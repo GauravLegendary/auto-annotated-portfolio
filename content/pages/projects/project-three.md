@@ -12,7 +12,9 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Leonardo_Phoenix_09_Minecraft_parkour_course_at_sunset_glowing_1.jpg
-  altText: Project thumbnail image
+  altText: >-
+    A Minecraft player mid-jump on a floating parkour course with glowing
+    checkpoints and a digital timer in the background.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
