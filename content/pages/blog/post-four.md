@@ -4,7 +4,7 @@ title: ❓What makes your plugins different from others on the market?
 colors: colors-a
 date: '2025-06-27'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Discover how my custom plugins stand out in a sea of cookie-cutter solutions.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
