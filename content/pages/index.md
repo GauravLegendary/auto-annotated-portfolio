@@ -87,6 +87,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: FAQ's
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
