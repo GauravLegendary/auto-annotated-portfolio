@@ -2,7 +2,7 @@
 type: PostLayout
 title: ❓What makes your plugins different from others on the market?
 colors: colors-a
-date: '2024-06-01'
+date: '2025-06-27'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
