@@ -5,9 +5,14 @@ colors: colors-a
 date: '2025-06-24'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Infuse is a dynamic Minecraft plugin that introduces 12 elemental potion
+  infusions, each granting players unique powers inspired by the core forces of
+  nature—fire, lightning, frost, speed, healing, vision, and more. Whether
+  you're blazing through enemies with a fire infusion or gaining stealth with
+  shadow vision, each potion brings a strategic edge to combat and exploration.
+  Perfect for RPG or custom adventure servers, Infuse transforms traditional
+  potion usage into an elemental mastery system, adding depth, variety, and
+  tactical gameplay to every session.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
