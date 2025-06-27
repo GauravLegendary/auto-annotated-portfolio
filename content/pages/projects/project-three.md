@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: "\U0001F3C3‍♂️ ParkourX – Advanced Minecraft Parkour System"
 colors: colors-a
-date: '2022-06-22'
+date: '0002-06-15'
 client: Awesome client
 description: >-
   ParkourX is a lightweight yet powerful Minecraft plugin that creates immersive
