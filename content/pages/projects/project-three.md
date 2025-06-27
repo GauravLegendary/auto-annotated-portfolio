@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ParkourX
+title: "\U0001F3C3‍♂️ ParkourX – Advanced Minecraft Parkour System"
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
