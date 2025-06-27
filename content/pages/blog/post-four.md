@@ -11,6 +11,9 @@ featuredImage:
   altText: >-
     Comparison of a custom high-quality Minecraft plugin UI vs. a generic one,
     showing the difference in detail and polish.
+  caption: >-
+    Built for your server’s success — my plugins are customized, stable, and
+    performance-focused from the ground up.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
