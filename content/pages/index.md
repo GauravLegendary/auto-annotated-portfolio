@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Minecraft Sdeveloper, digital artist, consultant and a bunch of
-      other impressive titles and buzz words.
+    title: "\U0001F44B Hi, I'm Gaurav Saini — a passionate Java developer and Minecraft plugin specialist with 4+ years of experience turning ideas into powerful, custom-built solutions."
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
